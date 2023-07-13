@@ -12,7 +12,6 @@ body {
     row-gap: 8px;
     column-gap: 8px;
     overflow-y: hidden;
-    overflow-x: hidden;
 }
 #one{
     border-radius: 10px;
